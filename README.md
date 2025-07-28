@@ -2,6 +2,6 @@ Files to model diffusion-decay-ingrowth with underworld3.
 
 underworld3 is required to run all models, the repositry with an installation guide is included (here)[https://github.com/underworldcode/underworld3]
 
-All diffusion benchmarks can be run from the (Run_diffusion_benchmarks.ipynb)[https://github.com/bknight1/diffusionDecayIngrowth/blob/main/Poisson_solver_implementation/Diffusion/Run_diffusion_benchmarks.ipynb] notebook. This will also produce the figures included in the manuscript.
+All diffusion benchmarks can be run from the [Run_diffusion_benchmarks.ipynb](https://github.com/bknight1/diffusionDecayIngrowth/blob/main/Poisson_solver_implementation/Diffusion/Run_diffusion_benchmarks.ipynb) notebook. This will also produce the figures included in the manuscript.
 
-All models used to replicate the thermal evolution of the Trivandrum block and plot results can be run from the (TB_plots.ipynb)[https://github.com/bknight1/diffusionDecayIngrowth/blob/main/Poisson_solver_implementation/TB_case_study/TB_plots.ipynb] notebook.
+All models used to replicate the thermal evolution of the Trivandrum block and plot results can be run from the [TB_plots.ipynb](https://github.com/bknight1/diffusionDecayIngrowth/blob/main/Poisson_solver_implementation/TB_case_study/TB_plots.ipynb) notebook.
